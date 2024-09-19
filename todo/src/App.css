@@ -1,0 +1,4 @@
+.bg-gradient-custom {
+    background: linear-gradient(to top, #134e4a, #111827); /* from gray-900 to teal-900 */
+    min-height: 100vh; /* Ensure it covers the full viewport height */
+  }
